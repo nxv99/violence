@@ -47,7 +47,7 @@ const commands = {
 	skids:
 	{
 		cmd: 'skids',
-		res: ':<span class="red"></span><br>#<span class="red"> ilymonkey</span><br># <span class="red"> faith</span><br></span>'
+		res: ':<span class="red"></span><br>#<span class="red"> qoft</span><br># <span class="red"> faith</span><br></span>'
 	},
 	links: 
 	{
@@ -80,7 +80,7 @@ function OnlyRoot(command) {
 function launchCommandAsRoot(command) 
 {
 	var res = '';
-	if (command === './welcome.sh') res = 'wlc to <span class="red">violence.social</span>!<br></span><br>Made By:</span><span class="red"> ilymonkey</span><br>Total Visits: <span class="red">actually idk but heres my number of logged ips: 420</span><br>Terminal Updated: <span class="red">never.</span><br><a href="" target="_blank"><u></u></a>:<span class="red"></span><br><br><b>Type \'help\' for more details on the commands</b>'
+	if (command === './welcome.sh') res = 'wlc to <span class="red">violence.social</span>!<br></span><br>Made By:</span><span class="red"> qoft</span><br>Total Visits: <span class="red">actually idk but heres my number of logged ips: 420</span><br>Terminal Updated: <span class="red">never.</span><br><a href="" target="_blank"><u></u></a>:<span class="red"></span><br><br><b>Type \'help\' for more details on the commands</b>'
 	else
 	{
 		window.alert("Nice try to changing \'root\' variable to 1");
