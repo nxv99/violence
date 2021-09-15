@@ -305,5 +305,5 @@ $('form').on('submit', function(e) {
 			$('#content > *').not(':last').remove();
 		}
 	}
-	$('input').val('');$('#content').getNiceScroll(0).resize().doScrollTop($('#content')[0].scrollHeight, 0);
+	$('input').val('');$('#content').getNiceScroll(0).resize().doScrollTop($('#content')[0].scrollHeight, 0)
 })
