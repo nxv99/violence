@@ -47,7 +47,7 @@ const commands = {
 	skids:
 	{
 		cmd: 'skids',
-		res: ':<span class="red"></span><br>#<span class="red"> qoft</span><br># <span class="red"> faith</span><br></span>'
+		res: ':<span class="red"></span><br>#<span class="red"> igna</span><br># <span class="red"> woosh</span><br></span># <span class="red"> kyle</span><br></span>'
 	},
 	links: 
 	{
