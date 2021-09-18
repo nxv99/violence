@@ -27,6 +27,16 @@ var HEIGHT,
     mousePos = {x:0,y:0};
     dist = 0;
 
+
+
+
+
+
+
+var styleSheet = document.createElement("./style.css")
+styleSheet.type = "text/css"
+styleSheet.innerText = styles
+document.head.appendChild(styleSheet)
 //INIT THREE JS, SCREEN AND MOUSE EVENTS
 
 function init(){
