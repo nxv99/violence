@@ -7,3 +7,9 @@ https://violence.social/second
 https://violence.social/third (BAD BAD BAD)
 
 https://violence.social/cool
+
+https://violence.social/lion/
+
+https://violence.social/plane
+
+https://violence.social/waves
